@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=generonishimura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api/top-langs?username=generonishimura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=generonishimura&show_icons=true&locale=en&theme=chartreuse-dark&width=410)
+![GitHub Stats](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api?username=generonishimura&show_icons=true&locale=en&theme=chartreuse-dark&width=410&count_private=true)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=generonishimura&theme=juicyfresh&no-bg=true)
 
