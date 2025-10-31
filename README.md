@@ -60,7 +60,7 @@
 
 効率化ツールの開発が好きです。
 
-- GoでCLIツールを作る
+- GoでCLIツールを作ったり、GASやChromeの拡張機能を作ったりしています。
 - TypeScript、Vue.js、NestJSを使用したWebアプリケーションやツール開発
 - Rust勉強中
 
