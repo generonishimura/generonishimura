@@ -45,12 +45,8 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/generonishimura/generonishimura/output/github-metrics.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/generonishimura/generonishimura/output/github-metrics.svg" />
-  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/generonishimura/generonishimura/output/github-metrics.svg" />
-</picture>
+
+![GitHub Metrics](https://raw.githubusercontent.com/generonishimura/generonishimura/main/output/github-metrics.svg)
 
 </div>
 
