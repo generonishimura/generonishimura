@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api/top-langs?username=generonishimura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=false)
+![Top Languages](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api/top-langs?username=generonishimura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-![GitHub Stats](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api?username=generonishimura&show_icons=true&locale=en&theme=chartreuse-dark&width=410&count_private=false)
+![GitHub Stats](https://github-readme-stats-34bu-fr2ryrlxh-generonishimuras-projects.vercel.app/api?username=generonishimura&show_icons=true&locale=en&theme=chartreuse-dark&width=410)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=generonishimura&theme=juicyfresh&no-bg=true)
 
@@ -41,12 +41,6 @@
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📈 GitHub Metrics
-
-<div align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/generonishimura/generonishimura/main/output/github-metrics.svg)
 
 </div>
 
