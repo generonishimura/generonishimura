@@ -47,7 +47,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_limit: 3
           plugin_stargazers_delay: 0.5
-          plugin_traffic: yes
+          plugin_traffic: no
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -64,9 +64,7 @@ jobs:
           plugin_introduction_title: yes
           plugin_repositories: no
           plugin_repositories_starred: no
-          plugin_discussions: yes
-          plugin_discussions_limit: 3
-          plugin_discussions_delay: 0.5
+          plugin_discussions: no
       - name: Commit & Push
         run: |
           git config user.name github-actions
