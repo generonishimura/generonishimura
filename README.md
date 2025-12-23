@@ -21,12 +21,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=generonishimura&theme=juicyfresh&no-bg=true)
-
-</div>
-
 ---
 
 ## 🛠️ Skills
